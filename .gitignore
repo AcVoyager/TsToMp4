@@ -1,0 +1,4 @@
+*.ts
+*.mp4
+*.vscode
+.DS_Store
